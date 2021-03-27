@@ -1,5 +1,3 @@
-# Practica 1. Tipologia i cicle de vida de les dades
-
 # Repositori propietat de Núria Aguilera Sánchez i Joan Antoni Reina i Romero
 
 ## Màster Universitari en Ciència de Dades (Universitat Oberta de Catalunya, UOC).
