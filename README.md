@@ -1,4 +1,4 @@
-# Practica-tipologia-i-cicle-de-vida-de-les-dades
+# Practica 1. Tipologia i cicle de vida de les dades
 
 # Repositori propietat de Núria Aguilera Sánchez i Joan Antoni Reina i Romero
 
