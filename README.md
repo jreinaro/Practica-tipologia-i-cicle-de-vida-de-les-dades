@@ -1,0 +1,1 @@
+# Practica-tipologia-i-cicle-de-vida-de-les-dades
