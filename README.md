@@ -2,7 +2,7 @@
 
 ## Màster Universitari en Ciència de Dades (Universitat Oberta de Catalunya, UOC).
 
-### Assignatura:  M2.951.Tipologia i cicle de vida de les dades. Aula 1.
+### Assignatura:  M2.951.Tipologia i cicle de vida de les dades. Aula 1
 ### Practica 1: *Web scraping*.
 
 
