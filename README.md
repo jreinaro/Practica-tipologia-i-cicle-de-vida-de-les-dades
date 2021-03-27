@@ -10,7 +10,7 @@
 
 ***EQUIP DE TREBALL:***
 
-L'equip ha estat format per Núria Aguilera i Joan Antoni Reina. Núria es graduada en Telecomunicacions, Electrònica i Direcció i Administració d'Empreses (ADE) i Joan Antoni en Economia i diplomat en estudis avançats (DEA Economia Aplicada). Ambdós amb llargues trajectòries profesionals en el món de la consultoria tecnològica i l'empresa.
+L'equip ha estat format per Núria Aguilera i Joan Antoni Reina. Ambdós cursant el màster en Ciència de Dades a la Universitat Oberta de Catalunya (UOC) i amb llargues trajectòries profesionals en el món de la consultoria tecnològica i l'empresa.
 
 ***DESCRIPCIÓ DE LA PRÀCTICA:***
 
