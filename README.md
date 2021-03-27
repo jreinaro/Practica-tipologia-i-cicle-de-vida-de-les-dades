@@ -23,6 +23,7 @@ Per la realització d'aquesta pràctica de *Web scraping* s'ha escollit la temà
 * *Dataset*: Criptomonedes_Historical_Data_20210327.csv
 
 ***REQUERIMENTS TECNICS***
+
 Per l'execució de l'script es necessari la instal·lació de les seguents llibreries:
 pip install pandas
 pip install request
